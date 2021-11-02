@@ -19,6 +19,9 @@ def functionC():
 def functionD():
 	pass
 
+def function1():
+	pass
+
 def functionE():
 	pass
 
