@@ -1,11 +1,5 @@
 def __main__():
-	functionA()
-	functionB()
-	functionC()
-	functionD()
-	functionE()
-	functionF()
-	functionG()
+	functionZ()
 
 def functionA():
 	pass
