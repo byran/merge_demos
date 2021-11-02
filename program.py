@@ -79,8 +79,5 @@ def functionW():
 def functionX():
 	pass
 
-def functionY():
-	pass
-
 def functionZ():
 	pass
