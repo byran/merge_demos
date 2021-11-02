@@ -3,6 +3,7 @@ def __main__():
 	functionB()
 	functionC()
 	functionD()
+	function1()
 	functionE()
 	functionF()
 	functionG()
